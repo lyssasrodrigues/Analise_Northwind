@@ -13,20 +13,20 @@ def load_csv(file_path):
 
 # Caminhos dos arquivos descompactados
 file_paths = {
-    'categories': 'C:/Users/USER/Downloads/nortwind/categories.csv',
-    'customer_customer_demo': 'C:/Users/USER/Downloads/nortwind/customer_customer_demo.csv',
-    'customer_demographics': 'C:/Users/USER/Downloads/nortwind/customer_demographics.csv',
-    'customers': 'C:/Users/USER/Downloads/nortwind/customers.csv',
-    'employee_territories': 'C:/Users/USER/Downloads/nortwind/employee_territories.csv',
-    'employees': 'C:/Users/USER/Downloads/nortwind/employees.csv',
-    'order_details': 'C:/Users/USER/Downloads/nortwind/order_details.csv',
-    'orders': 'C:/Users/USER/Downloads/nortwind/orders.csv',
-    'products': 'C:/Users/USER/Downloads/nortwind/products.csv',
-    'region': 'C:/Users/USER/Downloads/nortwind/region.csv',
-    'shippers': 'C:/Users/USER/Downloads/nortwind/shippers.csv',
-    'suppliers': 'C:/Users/USER/Downloads/nortwind/suppliers.csv',
-    'territories': 'C:/Users/USER/Downloads/nortwind/territories.csv',
-    'us_states': 'C:/Users/USER/Downloads/nortwind/us_states.csv'
+    'categories': 'categories.csv',
+    'customer_customer_demo': 'customer_customer_demo.csv',
+    'customer_demographics': 'customer_demographics.csv',
+    'customers': 'customers.csv',
+    'employee_territories': 'employee_territories.csv',
+    'employees': 'employees.csv',
+    'order_details': 'order_details.csv',
+    'orders': 'orders.csv',
+    'products': 'products.csv',
+    'region': 'region.csv',
+    'shippers': 'shippers.csv',
+    'suppliers': 'suppliers.csv',
+    'territories': 'territories.csv',
+    'us_states': 'us_states.csv'
 }
 
 # Carregar arquivos CSV em dataframes
